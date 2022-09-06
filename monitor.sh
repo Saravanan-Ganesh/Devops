@@ -1,3 +1,5 @@
+Script to check Memory , CPU, DISK
+
 #!/bin/bash
 #Monitoring script for the server
 LOGFILE="/mnt/f/BASH/backup_logs"
